@@ -1,13 +1,12 @@
-💻 **Basu Ojha – Senior Frontend Developer**
+# **Basu Ojha – Senior Frontend Developer** 🧑🏻‍💻
 
-  
-👋🏻 **About Me**
+
+## 👋🏻 **About Me**
 
 I am a Senior Frontend Developer with 4+ years of experience specializing in JavaScript, React.js, and modern UI frameworks. I am passionate about building high-performance, user-centric web applications and optimizing them for scalability and seamless experiences.
 
 
-
-🎯 **I love to**:
+## 🎯 **I love to**:
 
 Craft beautiful, accessible, and responsive user interfaces
 
@@ -18,8 +17,7 @@ Optimize code quality with best practices in testing and CI/CD
 Explore cutting-edge technologies and frameworks
 
 
-
-🏆 **Key Achievements**
+## 🏆 **Key Achievements**
 
 🥇 2x CEO Award Winner at Housing.com for exceptional performance and innovation
 
@@ -32,8 +30,7 @@ Explore cutting-edge technologies and frameworks
 📈 Improved SEO rankings by 12% through advanced pagination on Housing.com
 
 
-
-🔧 **Skills & Technologies**
+## 🔧 **Skills & Technologies**
 
 
 🖥️ **Frontend Development**
@@ -61,8 +58,7 @@ Jest, React Testing Library
 Git, Figma, Jira, Agile, Kafka
 
 
-
-🤝 **Connect with Me**
+##  🤝🏻 **Connect with Me**
 
 🌐 Portfolio Website: https://www.basuojha.dev
 
