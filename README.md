@@ -1,4 +1,4 @@
-💻 ***Basu Ojha – Senior Frontend Developer**
+💻 **Basu Ojha – Senior Frontend Developer**
 
   
 👋🏻 **About Me**
